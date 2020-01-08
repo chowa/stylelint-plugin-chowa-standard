@@ -1,0 +1,30 @@
+{
+  "name": "stylelint-plugin-chowa-standard",
+  "version": "1.0.0",
+  "description": "stylelint rule for chowa project",
+  "main": "index.js",
+  "engines": {
+    "node": ">=9.0.0",
+    "npm": ">=3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chowa/stylelint-plugin-chowa-standard.git"
+  },
+  "keywords": [
+    "stylelint",
+    "wepack",
+    "sass"
+  ],
+  "author": "xuecong8226@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chowa/stylelint-plugin-chowa-standard/issues"
+  },
+  "homepage": "https://github.com/chowa/stylelint-plugin-chowa-standard#readme",
+  "dependencies": {
+    "stylelint": "^12.0.0",
+    "stylelint-scss": "^3.13.0",
+    "stylelint-webpack-plugin": "^1.1.2"
+  }
+}
