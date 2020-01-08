@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="http://upload.ouliu.net/i/2020010816382426yew.png" width="240">
+</p>
+
 # stylelint-plugin-chowa-standard
 
 [![npm](https://img.shields.io/npm/v/stylelint-plugin-chowa-standard.svg)](https://www.npmjs.com/package/stylelint-plugin-chowa-standard)
