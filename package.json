@@ -1,6 +1,6 @@
 {
   "name": "stylelint-plugin-chowa-standard",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "stylelint rule for chowa project",
   "main": "index.js",
   "engines": {
