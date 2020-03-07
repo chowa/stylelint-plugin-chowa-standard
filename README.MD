@@ -18,7 +18,7 @@ npm i stylelint-plugin-chowa-standard --save-dev
 
 ## Usage
 
-If you don't have styelint installed
+If you don't have stylelint installed
 
 ```
 npm i stylelint stylelint-webpack-plugin --save
