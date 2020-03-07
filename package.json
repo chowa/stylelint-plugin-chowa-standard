@@ -21,10 +21,5 @@
   "bugs": {
     "url": "https://github.com/chowa/stylelint-plugin-chowa-standard/issues"
   },
-  "homepage": "https://github.com/chowa/stylelint-plugin-chowa-standard#readme",
-  "dependencies": {
-    "stylelint": "^12.0.0",
-    "stylelint-scss": "^3.13.0",
-    "stylelint-webpack-plugin": "^1.1.2"
-  }
+  "homepage": "https://github.com/chowa/stylelint-plugin-chowa-standard#readme"
 }

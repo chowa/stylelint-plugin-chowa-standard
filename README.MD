@@ -1,5 +1,5 @@
-<p align="center">
-    <img src="http://upload.ouliu.net/i/2020010816382426yew.png" width="240">
+<p align='center'>
+    <img src='http://upload.ouliu.net/i/2020010816382426yew.png' width='240'>
 </p>
 
 # stylelint-plugin-chowa-standard
@@ -12,10 +12,14 @@ Chowa project style syntax standard
 
 ## Install
 
-High version npm can be installed without `styelint`、`stylelint-webpack-plugin`、`stylelint-scss`
-
 ```
 npm i stylelint-plugin-chowa-standard --save-dev
+```
+
+If you don't have styelint installed
+
+```
+npm i styelint stylelint-webpack-plugin --save
 ```
 
 ## Usage
@@ -36,8 +40,23 @@ module.exports = {
 
 ```
 {
-    "extends": [
-        "stylelint-plugin-chowa-standard"
+    extends: [
+        'stylelint-plugin-chowa-standard'
+    ]
+}
+```
+
+## sass stylelint
+
+```
+npm i stylelint-scss --save-dev
+```
+
+```
+{
+    extends: [
+        'stylelint-scss'
+        'stylelint-plugin-chowa-standard'
     ]
 }
 ```
