@@ -16,13 +16,13 @@ Chowa project style syntax standard
 npm i stylelint-plugin-chowa-standard --save-dev
 ```
 
+## Usage
+
 If you don't have styelint installed
 
 ```
-npm i styelint stylelint-webpack-plugin --save
+npm i stylelint stylelint-webpack-plugin --save
 ```
-
-## Usage
 
 ### webpack plugin
 
