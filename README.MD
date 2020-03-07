@@ -55,7 +55,7 @@ npm i stylelint-scss --save-dev
 ```
 {
     extends: [
-        'stylelint-scss'
+        'stylelint-scss',
         'stylelint-plugin-chowa-standard'
     ]
 }
